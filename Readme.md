@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomRecurrenceFormWinFormSample/Form1.cs) (VB: [Form1.vb](./VB/CustomRecurrenceFormWinFormSample/Form1.vb))
+* [MyAppointmentRecurrenceForm .cs](./CS/CustomRecurrenceFormWinFormSample/MyAppointmentRecurrenceForm .cs) (VB: [MyAppointmentRecurrenceForm .vb](./VB/CustomRecurrenceFormWinFormSample/MyAppointmentRecurrenceForm .vb))
+* [Program.cs](./CS/CustomRecurrenceFormWinFormSample/Program.cs) (VB: [Program.vb](./VB/CustomRecurrenceFormWinFormSample/Program.vb))
+<!-- default file list end -->
 # How to create a simple recurrence form
 
 
